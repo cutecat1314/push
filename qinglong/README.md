@@ -7,8 +7,8 @@ ql raw https://raw.githubusercontent.com/yuxian158/others_scripts/master/qinglon
 config.sh填写示例
 
 ```
-export ql_url="12.34.567.89"
-export ql_post="5700"
+export ql_url=""
+export ql_post=""
 export client_id="*********"
 export client_secret="********"
 export env_name="JD_COOKIE"
